@@ -1,8 +1,38 @@
 [
     {
+        "title": "Get creative",
+        "queries": [
+            "fun diy kits and craft supplies",
+            "Find DIY leather craft kits"
+        ]
+    },
+ 
+    {
+        "title": "Freshen up your routine",
+        "queries": [
+            "30 Simple Daily Routine Habits to Level Up Your Lifestyle",
+            "how to refresh everyday life"
+        ]
+    },
+
+    {
         "title": "Houses near you",
         "queries": [
             "Houses near me"
+        ]
+    },
+    {
+        "title": "Prepare for the weather",
+        "queries": [
+            "San jose weather tomorrow hourly",
+            "Virginia weather by month"            
+        ]
+    },
+    {
+        "title": "Lights, camera, action!",
+        "queries": [
+            "Supper man , movies",
+            "The Vampire Diaries by"            
         ]
     },
     {
@@ -32,7 +62,14 @@
     {
         "title": "Search the lyrics of a song",
         "queries": [
-            "Debarge rhythm of the night lyrics"
+            "Happy birthday lyrics"
+        ]
+    },
+    {
+        "title": "Learn song lyrics",
+        "queries": [
+            "How to product a lyrics song",
+            "christmas lyrics mariah carey"
         ]
     },
     {
@@ -137,132 +174,133 @@
     },
 
     {
-        "title": "Maisons près de chez vous",
+        "title": "Find deals on Bing",
         "queries": [
-            "Maisons près de chez moi"
+            "Costco laptop on sale",
+            "deals on Samsung phones or TVs"
         ]
     },
     {
-        "title": "Vous ressentez des symptômes ?",
+        "title": "Plan a quick getaway",
         "queries": [
-            "Éruption cutanée sur l'avant-bras",
-            "Nez bouché",
+            "flight to HO CHI MINH city",
+            "perfect flight to hawaii",
             "Toux chatouilleuse"
         ]
     },
     {
-        "title": "Faites vos achats plus vite",
+        "title": "What's new?",
         "queries": [
-            "Acheter une PS5",
-            "Acheter une Xbox",
-            "Offres sur les chaises"
+            "what is the new car model in 2026"
+           
         ]
     },
     {
-        "title": "Traduisez tout !",
+        "title": "Get creative",
         "queries": [
-            "Traduction bienvenue à la maison en coréen",
-            "Traduction bienvenue à la maison en japonais",
-            "Traduction au revoir en japonais"
+            "Do it yourself crafts",
+            "DIY kits and Craft supplies."
         ]
     },
     {
-        "title": "Rechercher paroles de chanson",
+        "title": "Find your next read",
         "queries": [
-            "Paroles de Debarge rhythm of the night"
+            "new kid novel 2026 noi tieng"
         ]
     },
     {
-        "title": "Et si nous regardions ce film une nouvelle fois?",
+        "title": "Learn a new recipe",
         "queries": [
-            "Alien film",
-            "Film Aliens",
-            "Film Alien 3",
-            "Film Predator"
+            "cach nau bo kho don gian",
+            "cong thuc nau pho viet nam",
+            "cach uop thit nuong nhu nha hang"
+
         ]
     },
     {
-        "title": "Planifiez une petite escapade",
+        "title": "Too tired to cook?",
         "queries": [
-            "Vols Amsterdam-Tokyo",
-            "Vols New York-Tokyo"
+            "nha hang viet nam o san jose moi nhat",
+            "nha hang viet nam o japan moi nhat",
+            "quan an viet nam ngon nhat california"
+
         ]
     },
     {
-        "title": "Consulter postes à pourvoir",
+        "title": "Quickly convert money",
         "queries": [
-            "emplois chez Microsoft",
-            "Offres d'emploi Microsoft",
-            "Emplois près de chez moi",
-            "emplois chez Boeing"
+            "ty gia vietnam dong doi sang usd moi nhat",
+            "ty gia usd so voi dong nhan dan te moi nhat",
+            "ty gia dong yen nhat so voi viet nam dong moi nhat",
+            "ty gia dong yen nhat so voi viet nam dong moi nhat"
         ]
     },
     {
-        "title": "Vous pouvez suivre votre colis",
+        "title": "Treat your pet",
         "queries": [
-            "Suivi Chronopost"
+            "do choi va thuc an danh cho meo"
         ]
     },
     {
-        "title": "Trouver un endroit à découvrir",
+        "title": "Park with ease",
         "queries": [
-            "Itinéraire vers Berlin",
-            "Itinéraire vers Tokyo",
-            "Itinéraire vers New York"
+            "parking airport best rate Alien film",
+            "Film Aliens parking airport best rate",
+            "parking airport in New York"
         ]
     },
     {
-        "title": "Trop fatigué pour cuisiner ce soir ?",
+        "title": "Drive yoyr way",
         "queries": [
-            "KFC près de chez moi",
-            "Burger King près de chez moi",
-            "McDonalds près de chez moi"
+            "Discover Glow Up – luxurious, affordable skincare products",
+            "Browse our selection of AWD and 4x4 rental cars for your next adventure",
+            "Browse our selection of AWD and 4x4 rental cars for your next adventure"
+        ]
+    },
+    {
+        "title": "Glow up",
+        "queries": [
+            "Discover Glow Up – luxurious, affordable skincare products",
+            "For products though, a dyson air wrap, Keratese shampoo and conditioner"
+        ]
+    },
+    {
+        "title": "Relax completely",
+        "queries": [
+            "book an adults-only or wellness-focused resort",
+            "book an adults-only or wellness-focused resort"
+        ]
+    },
+    {
+        "title": "Stream your favorites",
+        "queries": [
+            "special promotions for streaming platforms, including Amazon and NetflixTalk",
+            "special promotions for streaming platforms, including Amazon and Netflix Talk"
+        ]
+    },
+    {
+        "title": "Talk, text, save",
+        "queries": [
+            "the best unlimited prepaid plans for phones, tablets, hotspots"
         ]
     },
     {
         "title": "Convertissez rapidement votre argent",
         "queries": [
-            "convertir 250 EUR en yen",
-            "convertir 500 EUR en yen"
+            "convertir 250 EUR en yen"
         ]
     },
     {
-        "title": "Apprenez à cuisiner une nouvelle recette",
+        "title": "Take off soon",
         "queries": [
-            "Comment faire cuire la ratatouille",
-            "Comment faire cuire les lasagnes"
+            "book cheap flights to dubai",
+            "book cheap flights to viet nam"
         ]
     },
     {
-        "title": "Trouvez des emplacements pour rester!",
+        "title": "Bank smarter",
         "queries": [
-            "Hôtels Berlin Allemagne",
-            "Hôtels Amsterdam Pays-Bas"
-        ]
-    },
-    {
-        "title": "Comment se porte l'économie ?",
-        "queries": [
-            "CAC 40"
-        ]
-    },
-    {
-        "title": "Qui a gagné ?",
-        "queries": [
-            "score du Paris Saint-Germain"
-        ]
-    },
-    {
-        "title": "Temps de jeu",
-        "queries": [
-            "Jeu vidéo Overwatch",
-            "Jeu vidéo Call of Duty"
-        ]
-    },
-    {
-        "title": "Enrichissez votre vocabulaire",
-        "queries": [
-            "definition definition"
+            "compare checking and savings account interest rates"
         ]
     },
     {
@@ -460,29 +498,6 @@
         ]
     },
     {
-        "title": "Consultar clima",
-        "queries": [
-            "Clima São Paulo",
-            "Clima Rio de Janeiro",
-            "Clima Brasília"
-        ]
-    },
-    {
-        "title": "Resultados futebol",
-        "queries": [
-            "Resultado Flamengo",
-            "Tabela Brasileirão"
-        ]
-    },
-
-    {
-        "title": "Huizen bij jou in de buurt",
-        "queries": [
-            "Huizen bij mij in de buurt",
-            "Makelaars Nederland"
-        ]
-    },
-    {
         "title": "Symptomen controleren",
         "queries": [
             "Uitslag op onderarm",
@@ -521,14 +536,6 @@
             "Eredivisie stand"
         ]
     },
-
-    {
-        "title": "近くの家",
-        "queries": [
-            "近くの不動産",
-            "東京 マンション"
-        ]
-    },
     {
         "title": "症状を確認",
         "queries": [
@@ -537,30 +544,7 @@
             "空咳"
         ]
     },
-    {
-        "title": "買い物",
-        "queries": [
-            "PS5を買う",
-            "Xboxを買う",
-            "椅子セール"
-        ]
-    },
-    {
-        "title": "映画を見る",
-        "queries": [
-            "エイリアン 映画",
-            "プレデター 映画",
-            "アバター 映画"
-        ]
-    },
-    {
-        "title": "天気を確認",
-        "queries": [
-            "東京 天気",
-            "大阪 天気",
-            "京都 天気"
-        ]
-    },
+    
     {
         "title": "サッカー結果",
         "queries": [
