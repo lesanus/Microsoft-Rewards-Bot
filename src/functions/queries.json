@@ -24,8 +24,8 @@
     {
         "title": "Prepare for the weather",
         "queries": [
-            "San jose weather tomorrow hourly",
-            "Virginia weather by month"            
+            "San jose weather tomorrow",
+            "Virginia weathertommorw"            
         ]
     },
     {
