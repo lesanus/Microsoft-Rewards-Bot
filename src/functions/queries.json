@@ -100,7 +100,8 @@
     {
         "title": "You can track your package",
         "queries": [
-            "USPS tracking"
+            "https://www.ups.com/track?track=yes&trackNums=1Z597EE10330291831&loc=en_US&requester=ST/trackdetails"
+                    
         ]
     },
     {
