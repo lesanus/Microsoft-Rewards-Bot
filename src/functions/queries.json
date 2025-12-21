@@ -1,77 +1,13 @@
 [
     {
-        "title": "Get creative",
-        "queries": [
-            "fun diy kits and craft supplies",
-            "Crafting is not a hobby it’s a way of life",
-            "Craft is the visible edge of art",
-            "Creativity is contagious, pass it on",
-            "The desire to create is one of the deepest yearnings of the human soul",
-            "Making something with your hands is one of the most satisfying things you can do",
-            "Crafting is like meditation, it allows you to focus your mind and release your stress",
-            "Crafting is not just about making things, it’s about making memories",
-            "The beauty of handmade is in the imperfections",
-            "Crafting is my therapy",
-            "The best things in life are handmade",
-            "Crafting is not a hobby, it’s a way of life",
-            "Craft is the visible edge of art",
-            "Creativity is contagious, pass it on",
-            "The desire to create is one of the deepest yearnings of the human soul",
-            "Making something with your hands is one of the most satisfying things you can do",
-            "Crafting is like meditation, it allows you to focus your mind and release your stress",
-             "Crafting is not just about making things, it’s about making memories",
-            "The beauty of handmade is in the imperfections",
-           "Crafting is my therapy",
-           "The best things in life are handmade",
-           "Find DIY leather craft kits"
-        ]
-    },
- 
-    {
-        "title": "Freshen up your routine",
-        "queries": [
-            "30 Simple Daily Routine Habits to Level Up Your Lifestyle",
-            "what's happening now",
-            "viral videos 2025",
-            "garden ideas for small spaces",
-            "travel destinations Europe",
-            "best sci-fi movies 2025",
-            "how to refresh everyday life"
-        ]
-    },
-
-    {
         "title": "Houses near you",
         "queries": [
-            "Houses near me"
-        ]
-    },
-    {
-        "title": "Prepare for the weather",
-        "queries": [
-            "San jose weather tomorrow",
-            "What a beautiful day",
-            "It’s not a very nice day",
-            "What a terrible day",
-            "What miserable weather",
-            "It’s starting to rain",
-            "What’s the weather like?",
-             "What a nice day",
-            "It’s stopped raining", 
-            "It’s clearing up",
-             "The sun’s come out",
-             "It’s pouring with rain",
-              "It’s raining cats and dogs",
-             "The weather is fine",
-             "The sun’s shining",
-            "Virginia weathertommorw"            
-        ]
-    },
-    {
-        "title": "Lights, camera, action!",
-        "queries": [
-            "Supper man , movies",
-            "The Vampire Diaries by"            
+            "Houses near me",
+            "Homes for sale near me",
+            "Apartments near me",
+            "Real estate listings near me",
+            "Zillow homes near me",
+            "houses for rent near me"
         ]
     },
     {
@@ -79,7 +15,10 @@
         "queries": [
             "Rash on forearm",
             "Stuffy nose",
-            "Tickling cough"
+            "Tickling cough",
+            "sore throat remedies",
+            "headache and nausea causes",
+            "fever symptoms adults"
         ]
     },
     {
@@ -87,7 +26,12 @@
         "queries": [
             "Buy PS5",
             "Buy Xbox",
-            "Chair deals"
+            "Chair deals",
+            "wireless mouse deals",
+            "best gaming headset price",
+            "laptop deals",
+            "buy office chair",
+            "SSD deals"
         ]
     },
     {
@@ -95,20 +39,21 @@
         "queries": [
             "Translate welcome home to Korean",
             "Translate welcome home to Japanese",
-            "Translate goodbye to Japanese"
+            "Translate goodbye to Japanese",
+            "Translate good morning to Spanish",
+            "Translate thank you to French",
+            "Translate see you later to Italian"
         ]
     },
     {
         "title": "Search the lyrics of a song",
         "queries": [
-            "Happy birthday lyrics"
-        ]
-    },
-    {
-        "title": "Learn song lyrics",
-        "queries": [
-            "How to product a lyrics song",
-            "christmas lyrics mariah carey"
+            "Debarge rhythm of the night lyrics",
+            "bohemian rhapsody lyrics",
+            "hotel california lyrics",
+            "blinding lights lyrics",
+            "lose yourself lyrics",
+            "smells like teen spirit lyrics"
         ]
     },
     {
@@ -117,14 +62,24 @@
             "Alien movie",
             "Aliens movie",
             "Alien 3 movie",
-            "Predator movie"
+            "Predator movie",
+            "Terminator movie",
+            "John Wick movie",
+            "Interstellar movie",
+            "The Matrix movie"
         ]
     },
     {
         "title": "Plan a quick getaway",
         "queries": [
             "Flights Amsterdam to Tokyo",
-            "Flights New York to Tokyo"
+            "Flights New York to Tokyo",
+            "cheap flights to paris",
+            "flights amsterdam to rome",
+            "last minute flight deals",
+            "direct flights from amsterdam",
+            "weekend getaway europe",
+            "best time to visit tokyo"
         ]
     },
     {
@@ -133,14 +88,22 @@
             "jobs at Microsoft",
             "Microsoft Job Openings",
             "Jobs near me",
-            "jobs at Boeing worked"
+            "jobs at Boeing worked",
+            "software engineer jobs near me",
+            "remote developer jobs",
+            "IT jobs netherlands",
+            "customer support jobs near me"
         ]
     },
     {
         "title": "You can track your package",
         "queries": [
-            "https://www.ups.com/track?track=yes&trackNums=1Z597EE10330291831&loc=en_US&requester=ST/trackdetails"
-                    
+            "USPS tracking",
+            "UPS tracking",
+            "DHL tracking",
+            "FedEx tracking",
+            "track my package",
+            "international package tracking"
         ]
     },
     {
@@ -148,7 +111,12 @@
         "queries": [
             "Directions to Berlin",
             "Directions to Tokyo",
-            "Directions to New York"
+            "Directions to New York",
+            "things to do in berlin",
+            "tourist attractions tokyo",
+            "best places to visit in new york",
+            "hidden gems near me",
+            "day trips near me"
         ]
     },
     {
@@ -156,440 +124,459 @@
         "queries": [
             "KFC near me",
             "Burger King near me",
-            "McDonalds near me"
+            "McDonalds near me",
+            "pizza delivery near me",
+            "restaurants open now",
+            "best takeout near me",
+            "quick dinner ideas",
+            "easy dinner recipes"
         ]
     },
     {
         "title": "Quickly convert your money",
         "queries": [
             "convert 250 USD to yen",
-            "convert 500 USD to yen"
+            "convert 500 USD to yen",
+            "usd to eur",
+            "gbp to eur",
+            "eur to jpy",
+            "currency converter",
+            "exchange rate today",
+            "1000 yen to euro"
         ]
     },
     {
         "title": "Learn to cook a new recipe",
         "queries": [
             "How to cook ratatouille",
-            "How to cook lasagna"
+            "How to cook lasagna",
+            "easy pasta recipe",
+            "how to make pancakes",
+            "how to make fried rice",
+            "simple chicken recipe"
         ]
     },
     {
         "title": "Find places to stay!",
         "queries": [
             "Hotels Berlin Germany",
-            "Hotels Amsterdam Netherlands"
+            "Hotels Amsterdam Netherlands",
+            "hotels in paris",
+            "best hotels in tokyo",
+            "cheap hotels london",
+            "places to stay in barcelona",
+            "hotel deals",
+            "booking hotels near me"
         ]
     },
     {
         "title": "How's the economy?",
         "queries": [
-            "sp 500"
+            "sp 500",
+            "nasdaq",
+            "dow jones today",
+            "inflation rate europe",
+            "interest rates today",
+            "stock market today",
+            "economic news",
+            "recession forecast"
         ]
     },
     {
         "title": "Who won?",
         "queries": [
-            "braves score"
+            "braves score",
+            "champions league results",
+            "premier league results",
+            "nba score",
+            "formula 1 winner",
+            "latest football scores",
+            "ucl final winner",
+            "world cup final result"
         ]
     },
     {
         "title": "Gaming time",
         "queries": [
             "Overwatch video game",
-            "Call of duty video game"
+            "Call of duty video game",
+            "best games 2025",
+            "top xbox games",
+            "popular steam games",
+            "new pc games",
+            "game reviews",
+            "best co-op games"
         ]
     },
     {
         "title": "Expand your vocabulary",
         "queries": [
-            "definition definition"
+            "definition definition",
+            "meaning of serendipity",
+            "define nostalgia",
+            "synonym for happy",
+            "define eloquent",
+            "what does epiphany mean",
+            "word of the day",
+            "define immaculate"
         ]
     },
     {
         "title": "What time is it?",
         "queries": [
             "Japan time",
-            "New York time"
+            "New York time",
+            "time in london",
+            "time in tokyo",
+            "current time in amsterdam",
+            "time in los angeles"
         ]
     },
-
     {
         "title": "Find deals on Bing",
         "queries": [
-            "Costco laptop on sale",
-            "deals on Samsung phones or TVs"
+            "best laptop deals",
+            "tech deals today",
+            "wireless earbuds deals",
+            "gaming chair deals",
+            "discount codes electronics",
+            "best amazon deals today",
+            "smartphone deals",
+            "ssd deals"
         ]
     },
     {
-        "title": "Plan a quick getaway",
+        "title": "Prepare for the weather",
         "queries": [
-            "flight to HO CHI MINH city",
-            "perfect flight to hawaii",
-            "Toux chatouilleuse"
+            "weather tomorrow",
+            "weekly weather forecast",
+            "rain forecast today",
+            "weather in amsterdam",
+            "storm forecast europe",
+            "uv index today",
+            "temperature this weekend",
+            "snow forecast"
         ]
     },
     {
-        "title": "What's new?",
+        "title": "Track your delivery",
         "queries": [
-            "what is the new car model in 2026"
-           
+            "track my package",
+            "postnl track and trace",
+            "dhl parcel tracking",
+            "ups tracking",
+            "fedex tracking",
+            "usps tracking",
+            "parcel tracking",
+            "international package tracking"
         ]
     },
     {
-        "title": "Get creative",
+        "title": "Explore a new spot today",
         "queries": [
-            "Do it yourself crafts",
-            "DIY kits and Craft supplies."
+            "places to visit near me",
+            "things to do near me",
+            "hidden gems netherlands",
+            "best museums near me",
+            "parks near me",
+            "tourist attractions nearby",
+            "best cafes near me",
+            "day trip ideas"
         ]
     },
     {
-        "title": "Find your next read",
+        "title": "Maisons près de chez vous",
         "queries": [
-            "new kid novel 2026 noi tieng"
+            "Maisons près de chez moi",
+            "Maisons à vendre près de chez moi",
+            "Appartements près de chez moi",
+            "Annonces immobilières près de chez moi",
+            "Maisons à louer près de chez moi"
         ]
     },
     {
-        "title": "Learn a new recipe",
+        "title": "Vous ressentez des symptômes ?",
         "queries": [
-            "cach nau bo kho don gian",
-            "cong thuc nau pho viet nam",
-            "cach uop thit nuong nhu nha hang"
-
+            "Éruption cutanée sur l'avant-bras",
+            "Nez bouché",
+            "Toux chatouilleuse",
+            "mal de gorge remèdes",
+            "maux de tête causes",
+            "symptômes de la grippe"
         ]
     },
     {
-        "title": "Too tired to cook?",
+        "title": "Faites vos achats plus vite",
         "queries": [
-            "nha hang viet nam o san jose moi nhat",
-            "nha hang viet nam o japan moi nhat",
-            "quan an viet nam ngon nhat california"
-
+            "Acheter une PS5",
+            "Acheter une Xbox",
+            "Offres sur les chaises",
+            "offres ordinateur portable",
+            "meilleures offres casque",
+            "acheter souris sans fil",
+            "promotions ssd",
+            "bons plans tech"
         ]
     },
     {
-        "title": "Quickly convert money",
+        "title": "Traduisez tout !",
         "queries": [
-            "ty gia vietnam dong doi sang usd moi nhat",
-            "ty gia usd so voi dong nhan dan te moi nhat",
-            "ty gia dong yen nhat so voi viet nam dong moi nhat",
-            "ty gia dong yen nhat so voi viet nam dong moi nhat"
+            "Traduction bienvenue à la maison en coréen",
+            "Traduction bienvenue à la maison en japonais",
+            "Traduction au revoir en japonais",
+            "Traduire bonjour en espagnol",
+            "Traduire merci en anglais",
+            "Traduire à plus tard en italien"
         ]
     },
     {
-        "title": "Treat your pet",
+        "title": "Rechercher paroles de chanson",
         "queries": [
-            "do choi va thuc an danh cho meo"
+            "Paroles de Debarge rhythm of the night",
+            "paroles bohemian rhapsody",
+            "paroles hotel california",
+            "paroles blinding lights",
+            "paroles lose yourself",
+            "paroles smells like teen spirit"
         ]
     },
     {
-        "title": "Park with ease",
+        "title": "Et si nous regardions ce film une nouvelle fois?",
         "queries": [
-            "parking airport best rate Alien film",
-            "Film Aliens parking airport best rate",
-            "parking airport in New York"
+            "Alien film",
+            "Film Aliens",
+            "Film Alien 3",
+            "Film Predator",
+            "Film Terminator",
+            "Film John Wick",
+            "Film Interstellar",
+            "Film Matrix"
         ]
     },
     {
-        "title": "Drive yoyr way",
+        "title": "Planifiez une petite escapade",
         "queries": [
-            "Discover Glow Up – luxurious, affordable skincare products",
-            "Browse our selection of AWD and 4x4 rental cars for your next adventure",
-            "Browse our selection of AWD and 4x4 rental cars for your next adventure"
+            "Vols Amsterdam-Tokyo",
+            "Vols New York-Tokyo",
+            "vols pas chers paris",
+            "vols amsterdam rome",
+            "offres vols dernière minute",
+            "week-end en europe",
+            "vols directs depuis amsterdam"
         ]
     },
     {
-        "title": "Glow up",
+        "title": "Consulter postes à pourvoir",
         "queries": [
-            "Discover Glow Up – luxurious, affordable skincare products",
-            "For products though, a dyson air wrap, Keratese shampoo and conditioner"
+            "emplois chez Microsoft",
+            "Offres d'emploi Microsoft",
+            "Emplois près de chez moi",
+            "emplois chez Boeing",
+            "emplois développeur à distance",
+            "emplois informatique pays-bas",
+            "offres d'emploi près de chez moi"
         ]
     },
     {
-        "title": "Relax completely",
+        "title": "Vous pouvez suivre votre colis",
         "queries": [
-            "book an adults-only or wellness-focused resort",
-            "book an adults-only or wellness-focused resort"
+            "Suivi Chronopost",
+            "suivi colis",
+            "suivi DHL",
+            "suivi UPS",
+            "suivi FedEx",
+            "suivi international colis"
         ]
     },
     {
-        "title": "Stream your favorites",
+        "title": "Trouver un endroit à découvrir",
         "queries": [
-            "special promotions for streaming platforms, including Amazon and NetflixTalk",
-            "special promotions for streaming platforms, including Amazon and Netflix Talk"
+            "Itinéraire vers Berlin",
+            "Itinéraire vers Tokyo",
+            "Itinéraire vers New York",
+            "que faire à berlin",
+            "attractions tokyo",
+            "meilleurs endroits à visiter à new york",
+            "endroits à visiter près de chez moi"
         ]
     },
     {
-        "title": "Talk, text, save",
+        "title": "Trop fatigué pour cuisiner ce soir ?",
         "queries": [
-            "the best unlimited prepaid plans for phones, tablets, hotspots"
+            "KFC près de chez moi",
+            "Burger King près de chez moi",
+            "McDonalds près de chez moi",
+            "livraison pizza près de chez moi",
+            "restaurants ouverts maintenant",
+            "idées dîner rapide",
+            "quoi manger ce soir"
         ]
     },
     {
         "title": "Convertissez rapidement votre argent",
         "queries": [
-            "convertir 250 EUR en yen"
+            "convertir 250 EUR en yen",
+            "convertir 500 EUR en yen",
+            "usd en eur",
+            "gbp en eur",
+            "eur en jpy",
+            "convertisseur de devises",
+            "taux de change aujourd'hui",
+            "1000 yen en euro"
         ]
     },
     {
-        "title": "Take off soon",
+        "title": "Apprenez à cuisiner une nouvelle recette",
         "queries": [
-            "book cheap flights to dubai",
-            "book cheap flights to viet nam"
+            "Comment faire cuire la ratatouille",
+            "Comment faire cuire les lasagnes",
+            "recette pâtes facile",
+            "comment faire des crêpes",
+            "recette riz sauté",
+            "recette poulet simple"
         ]
     },
     {
-        "title": "Bank smarter",
+        "title": "Trouvez des emplacements pour rester!",
         "queries": [
-            "compare checking and savings account interest rates"
+            "Hôtels Berlin Allemagne",
+            "Hôtels Amsterdam Pays-Bas",
+            "hôtels paris",
+            "meilleurs hôtels tokyo",
+            "hôtels pas chers londres",
+            "hébergement barcelone",
+            "offres hôtels",
+            "hôtels près de chez moi"
+        ]
+    },
+    {
+        "title": "Comment se porte l'économie ?",
+        "queries": [
+            "CAC 40",
+            "indice dax",
+            "dow jones aujourd'hui",
+            "inflation europe",
+            "taux d'intérêt aujourd'hui",
+            "marché boursier aujourd'hui",
+            "actualités économie",
+            "prévisions récession"
+        ]
+    },
+    {
+        "title": "Qui a gagné ?",
+        "queries": [
+            "score du Paris Saint-Germain",
+            "résultats ligue des champions",
+            "résultats premier league",
+            "score nba",
+            "vainqueur formule 1",
+            "derniers scores football",
+            "vainqueur finale ldc"
+        ]
+    },
+    {
+        "title": "Temps de jeu",
+        "queries": [
+            "Jeu vidéo Overwatch",
+            "Jeu vidéo Call of Duty",
+            "meilleurs jeux 2025",
+            "top jeux xbox",
+            "jeux steam populaires",
+            "nouveaux jeux pc",
+            "avis jeux vidéo",
+            "meilleurs jeux coop"
+        ]
+    },
+    {
+        "title": "Enrichissez votre vocabulaire",
+        "queries": [
+            "definition definition",
+            "signification sérendipité",
+            "définir nostalgie",
+            "synonyme heureux",
+            "définir éloquent",
+            "mot du jour",
+            "que veut dire épiphanie"
         ]
     },
     {
         "title": "Quelle heure est-il ?",
         "queries": [
             "Heure du Japon",
-            "Heure de New York"
+            "Heure de New York",
+            "heure de londres",
+            "heure de tokyo",
+            "heure actuelle amsterdam",
+            "heure de los angeles"
         ]
     },
     {
         "title": "Vérifier la météo",
         "queries": [
             "Météo de Paris",
-            "Météo de la France"
+            "Météo de la France",
+            "météo demain",
+            "prévisions météo semaine",
+            "météo amsterdam",
+            "risque de pluie aujourd'hui"
         ]
     },
     {
         "title": "Tenez-vous informé des sujets d'actualité",
         "queries": [
             "Augmentation Impots",
-            "Mort célébrité"
-        ]
-    },
-
-    {
-        "title": "Häuser in deiner Nähe",
-        "queries": [
-            "Häuser in meiner Nähe",
-            "Immobilien Deutschland"
+            "Mort célébrité",
+            "actualités france",
+            "actualité internationale",
+            "dernières nouvelles économie",
+            "news technologie"
         ]
     },
     {
-        "title": "Symptome überprüfen",
+        "title": "Préparez-vous pour la météo",
         "queries": [
-            "Ausschlag am Unterarm",
-            "Verstopfte Nase",
-            "Trockener Husten"
+            "météo demain",
+            "prévisions météo semaine",
+            "météo amsterdam",
+            "risque de pluie aujourd'hui",
+            "indice uv aujourd'hui",
+            "température ce week-end",
+            "alerte tempête"
         ]
     },
     {
-        "title": "Schneller einkaufen",
+        "title": "Suivez votre livraison",
         "queries": [
-            "PS5 kaufen",
-            "Xbox kaufen",
-            "Stuhl Angebote"
+            "suivi colis",
+            "postnl suivi colis",
+            "suivi DHL colis",
+            "suivi UPS",
+            "suivi FedEx",
+            "suivi international colis",
+            "suivre ma livraison"
         ]
     },
     {
-        "title": "Filme anschauen",
+        "title": "Trouvez des offres sur Bing",
         "queries": [
-            "Alien Film",
-            "Predator Film",
-            "Avatar Film"
+            "meilleures offres ordinateur portable",
+            "bons plans tech",
+            "promotions écouteurs",
+            "offres chaise gamer",
+            "codes promo électronique",
+            "meilleures offres amazon aujourd'hui"
         ]
     },
     {
-        "title": "Wetter überprüfen",
+        "title": "Explorez un nouvel endroit aujourd'hui",
         "queries": [
-            "Wetter Berlin",
-            "Wetter München",
-            "Wetter Hamburg"
-        ]
-    },
-    {
-        "title": "Fußball Ergebnisse",
-        "queries": [
-            "Bayern München Ergebnis",
-            "Bundesliga Tabelle"
-        ]
-    },
-
-    {
-        "title": "Casas cerca de ti",
-        "queries": [
-            "Casas cerca de mí",
-            "Inmobiliarias España"
-        ]
-    },
-    {
-        "title": "Comprobar síntomas",
-        "queries": [
-            "Erupción en el brazo",
-            "Nariz tapada",
-            "Tos seca"
-        ]
-    },
-    {
-        "title": "Compras más rápidas",
-        "queries": [
-            "Comprar PS5",
-            "Comprar Xbox",
-            "Ofertas sillas"
-        ]
-    },
-    {
-        "title": "Ver películas",
-        "queries": [
-            "Película Alien",
-            "Película Predator",
-            "Película Avatar"
-        ]
-    },
-    {
-        "title": "Consultar el tiempo",
-        "queries": [
-            "Tiempo Madrid",
-            "Tiempo Barcelona",
-            "Tiempo Valencia"
-        ]
-    },
-    {
-        "title": "Resultados de fútbol",
-        "queries": [
-            "Resultado Real Madrid",
-            "Clasificación La Liga"
-        ]
-    },
-
-    {
-        "title": "Case vicino a te",
-        "queries": [
-            "Case vicino a me",
-            "Immobiliare Italia"
-        ]
-    },
-    {
-        "title": "Controlla sintomi",
-        "queries": [
-            "Eruzione cutanea sul braccio",
-            "Naso chiuso",
-            "Tosse secca"
-        ]
-    },
-    {
-        "title": "Acquisti veloci",
-        "queries": [
-            "Comprare PS5",
-            "Comprare Xbox",
-            "Offerte sedie"
-        ]
-    },
-    {
-        "title": "Guardare film",
-        "queries": [
-            "Film Alien",
-            "Film Predator",
-            "Film Avatar"
-        ]
-    },
-    {
-        "title": "Controlla il meteo",
-        "queries": [
-            "Meteo Roma",
-            "Meteo Milano",
-            "Meteo Napoli"
-        ]
-    },
-    {
-        "title": "Risultati calcio",
-        "queries": [
-            "Risultato Juventus",
-            "Classifica Serie A"
-        ]
-    },
-
-    {
-        "title": "Casas perto de você",
-        "queries": [
-            "Casas perto de mim",
-            "Imobiliárias Brasil"
-        ]
-    },
-    {
-        "title": "Verificar sintomas",
-        "queries": [
-            "Erupção no braço",
-            "Nariz entupido",
-            "Tosse seca"
-        ]
-    },
-    {
-        "title": "Compras rápidas",
-        "queries": [
-            "Comprar PS5",
-            "Comprar Xbox",
-            "Ofertas cadeiras"
-        ]
-    },
-    {
-        "title": "Assistir filmes",
-        "queries": [
-            "Filme Alien",
-            "Filme Predador",
-            "Filme Avatar"
-        ]
-    },
-    {
-        "title": "Symptomen controleren",
-        "queries": [
-            "Uitslag op onderarm",
-            "Verstopte neus",
-            "Droge hoest"
-        ]
-    },
-    {
-        "title": "Snel winkelen",
-        "queries": [
-            "PS5 kopen",
-            "Xbox kopen",
-            "Stoel aanbiedingen"
-        ]
-    },
-    {
-        "title": "Films kijken",
-        "queries": [
-            "Alien film",
-            "Predator film",
-            "Avatar film"
-        ]
-    },
-    {
-        "title": "Weer controleren",
-        "queries": [
-            "Weer Amsterdam",
-            "Weer Rotterdam",
-            "Weer Utrecht"
-        ]
-    },
-    {
-        "title": "Voetbal uitslagen",
-        "queries": [
-            "Uitslag Ajax",
-            "Eredivisie stand"
-        ]
-    },
-    {
-        "title": "症状を確認",
-        "queries": [
-            "腕の発疹",
-            "鼻詰まり",
-            "空咳"
-        ]
-    },
-    
-    {
-        "title": "サッカー結果",
-        "queries": [
-            "浦和レッズ 結果",
-            "Jリーグ 順位表"
+            "endroits à visiter près de chez moi",
+            "que faire près de chez moi",
+            "endroits insolites pays-bas",
+            "meilleurs musées près de chez moi",
+            "parcs près de chez moi",
+            "attractions touristiques à proximité",
+            "meilleurs cafés près de chez moi"
         ]
     }
 ]
